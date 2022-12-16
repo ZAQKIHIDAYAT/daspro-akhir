@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\bin\Debug\net6.0\LATIHAN 3 UTS.exe
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\bin\Debug\net6.0\LATIHAN 3 UTS.deps.json
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\bin\Debug\net6.0\LATIHAN 3 UTS.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\bin\Debug\net6.0\LATIHAN 3 UTS.dll
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\bin\Debug\net6.0\LATIHAN 3 UTS.pdb
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.dll
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\refint\LATIHAN 3 UTS.dll
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.pdb
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\LATIHAN 3 UTS.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Desktop\LATIHAN 3 UTS\obj\Debug\net6.0\ref\LATIHAN 3 UTS.dll

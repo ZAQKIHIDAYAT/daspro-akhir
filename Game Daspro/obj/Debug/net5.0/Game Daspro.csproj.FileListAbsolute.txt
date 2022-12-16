@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.exe
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.deps.json
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.runtimeconfig.json
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.dll
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\ref\Game Daspro.dll
+C:\Users\RIVEL\Desktop\Game Daspro\bin\Debug\net5.0\Game Daspro.pdb
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.dll
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\ref\Game Daspro.dll
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.pdb
+C:\Users\RIVEL\Desktop\Game Daspro\obj\Debug\net5.0\Game Daspro.genruntimeconfig.cache

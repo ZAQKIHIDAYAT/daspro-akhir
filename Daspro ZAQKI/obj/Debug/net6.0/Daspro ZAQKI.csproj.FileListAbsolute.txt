@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.AssemblyInfo.cs
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Daspro ZAQKI\bin\Debug\net6.0\Daspro ZAQKI.exe
+C:\Users\User\Desktop\Daspro ZAQKI\bin\Debug\net6.0\Daspro ZAQKI.deps.json
+C:\Users\User\Desktop\Daspro ZAQKI\bin\Debug\net6.0\Daspro ZAQKI.runtimeconfig.json
+C:\Users\User\Desktop\Daspro ZAQKI\bin\Debug\net6.0\Daspro ZAQKI.dll
+C:\Users\User\Desktop\Daspro ZAQKI\bin\Debug\net6.0\Daspro ZAQKI.pdb
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.dll
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\refint\Daspro ZAQKI.dll
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.pdb
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\Daspro ZAQKI.genruntimeconfig.cache
+C:\Users\User\Desktop\Daspro ZAQKI\obj\Debug\net6.0\ref\Daspro ZAQKI.dll

@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Batle Tank\bin\Debug\net6.0\Batle Tank.exe
+C:\Users\User\OneDrive\Desktop\Batle Tank\bin\Debug\net6.0\Batle Tank.deps.json
+C:\Users\User\OneDrive\Desktop\Batle Tank\bin\Debug\net6.0\Batle Tank.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Batle Tank\bin\Debug\net6.0\Batle Tank.dll
+C:\Users\User\OneDrive\Desktop\Batle Tank\bin\Debug\net6.0\Batle Tank.pdb
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.dll
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\refint\Batle Tank.dll
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.pdb
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\Batle Tank.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Batle Tank\obj\Debug\net6.0\ref\Batle Tank.dll

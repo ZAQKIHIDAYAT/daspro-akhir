@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>To Do Apps with Vue JS</h1>
+    <input type="text">
+    <button>Tambah List MK</button>
+
+    <ul></ul>
+
+    <script>
+
+        var inputEl = document.querySelector('input');
+        var buttonEl = document.querySelector('button');
+        var ulEl = document.querySelector('ul');
+
+        var todos = [];
+
+        buttonEl.addEventListener('click', addTodo);
+
+        function addTodo(){
+            var userInput = inputEl.value;
+            if(userInput.trim()==''){
+                return;
+            }
+            var newTodo = { id: Math.random(), value: userInput };
+            todos.push(newTodo);
+            var todoLi = document.createElement('Li');
+            todoLi.textContent = userInput;
+            todoLi.addEventListener('click', remmoveTodo);
+            todoLi.dataset.id = newTodo.id
+            ulEl.appendChild(todoLi);
+            console.log(todos);
+        }
+        function remmoveTodo(event){
+            var clickedLi = event.target;
+            var itemId = clickedLi.dataset.id;
+            for(var i=o;i<todos.length;i++){
+                if(todos[i].id == itemId){
+                    todos.splice(i,1);
+                    break;
+                }
+            }
+            clickedLi
+        }
+    </script>
+</body>
+</html>

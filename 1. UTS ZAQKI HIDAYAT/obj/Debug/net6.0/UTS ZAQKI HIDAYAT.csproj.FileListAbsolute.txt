@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\bin\Debug\net6.0\UTS ZAQKI HIDAYAT.exe
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\bin\Debug\net6.0\UTS ZAQKI HIDAYAT.deps.json
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\bin\Debug\net6.0\UTS ZAQKI HIDAYAT.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\bin\Debug\net6.0\UTS ZAQKI HIDAYAT.dll
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\bin\Debug\net6.0\UTS ZAQKI HIDAYAT.pdb
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.dll
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\refint\UTS ZAQKI HIDAYAT.dll
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.pdb
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\UTS ZAQKI HIDAYAT.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Desktop\UTS ZAQKI HIDAYAT\obj\Debug\net6.0\ref\UTS ZAQKI HIDAYAT.dll
